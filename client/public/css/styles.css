@@ -1,0 +1,173 @@
+@font-face {
+  font-family: "Cubano";
+  src: url("/fonts/Cubano/Cubano-Regular.ttf");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MuseoSans";
+  src: url("/fonts/MuseoSans/MuseoSans-300.otf");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+.square {
+  border-radius: 0px;
+}
+h1 {
+  font-size: 5rem;
+  color: #080808;
+  font-family: "Cubano";
+  src: url("/fonts/Cubano/Cubano-Regular.ttf");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.price-det {
+  background-color: #eec0c6;
+  background-image: linear-gradient(315deg, #eec0c6 0%, #7ee8fa 74%);
+  padding: 5.8px;
+  box-shadow: 0px 15px 50px rgba(8, 112, 184, 0.7);
+  width: 11.6%;
+  border-radius: 11px;
+}
+
+.title1 {
+  font-size: 16px;
+  margin-top: 16px;
+}
+.co {
+  margin-left: 70px;
+}
+.kek {
+  padding: 12px;
+}
+.price-det2 {
+  background-color: #fad0c4;
+  background-image: linear-gradient(315deg, #fad0c4 0%, #f1a7f1 74%);
+
+  margin-top: 6px;
+  padding: 7.8px;
+  font-size: large;
+  /* box-shadow: 0px 15px 50px rgba(8, 112, 184, 0.7); */
+  width: 11.6%;
+  border-radius: 11px;
+}
+
+.rright {
+  margin-top: -110px;
+  margin-left: 90%;
+}
+.rect-upload {
+  background-color: #7f5a83;
+  background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
+  color: white;
+  width: 100%;
+}
+.lead {
+  font-weight: 600;
+  font-size: 1.5em;
+}
+.player {
+  margin-left: 70px;
+}
+
+.pprice {
+  text-align: center;
+  font-size: 1.7rem;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.complete {
+  display: flex;
+  justify-content: right;
+  margin-top: -11px;
+  align-items: center;
+}
+.namep {
+  font-weight: 500;
+  font-size: 1.2rem;
+}
+.ss2 {
+  margin-top: 45px;
+}
+.ss {
+  margin-right: 6px;
+}
+.left2 {
+  margin-left: 6px;
+}
+.cardsie {
+  border-radius: 9px;
+}
+.pp {
+  /* display: flex; */
+  /* float: left; */
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-left: 190px;
+  /* margin-right: 190px; */
+  margin-top: 34px;
+  margin-bottom: 14px;
+}
+.preview {
+  font-weight: 765;
+  color: black;
+  font-size: medium;
+}
+.preview2 {
+  color: whitesmoke;
+  font-weight: 565;
+  font-size: 14px;
+  background-color: #7f53ac;
+  background-image: linear-gradient(315deg, #7f53ac 0%, #647dee 74%);
+  padding: 7.8px;
+  border-radius: 3.5px;
+}
+.rect {
+  width: 100%;
+  height: 3rem;
+  background-color: #7f53ac;
+  background-image: linear-gradient(315deg, #7f53ac 0%, #647dee 34%);
+}
+
+.rect2 {
+  width: 40%;
+  height: 3rem;
+  /* margin-left: 8%; */
+  background-color: #e9bcb7;
+  color: white;
+  background-image: linear-gradient(315deg, #e9bcb7 20%, #29524a 84%);
+}
+
+.rect22 {
+  font-size: 1.3rem;
+}
+
+.rect222 {
+  width: 40%;
+  /* margin-left: 25%; */
+  background-color: #7f53ac;
+  background-image: linear-gradient(315deg, #7f53ac 0%, #647dee 34%);
+}
+.payset {
+  background-color: #3bb78f;
+  background-image: linear-gradient(315deg, #3bb78f 50%, #0bab64 36%);
+}
+
+.float-right {
+  margin-left: auto;
+}
+.jumbotron {
+  background-color: #20bf55;
+  padding: 60px;
+  background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
+}
