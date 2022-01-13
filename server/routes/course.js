@@ -46,7 +46,7 @@ router.get("/course/:slug", read);
 router.post(
   "/course/video-upload/:instructorId",
   requireSignin,
-  formidable(),
+  formidable({ maxFileSize: 500 * 1024 * 1024 }),
   uploadVideo,
   addLesson
 );

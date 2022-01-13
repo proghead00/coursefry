@@ -54,6 +54,9 @@ app.get("/api/csrf-token", (req, res) => {
   res.json({ csrfToken: req.csrfToken() });
 });
 
+if (process.env.NODE_ENV === "production") {
+  app.use(express.static("client/.next"));
+}
 // port
 const port = process.env.PORT || 8000;
 app.listen(port, () => console.log(`Server on port ${port}`));
