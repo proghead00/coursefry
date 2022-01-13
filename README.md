@@ -18,7 +18,7 @@
 * ### Course creation and management with features to add, update, delete, reorder lessons
 * ### Enrollment allocation according to the plan (Free/ Paid)
 * ### User dashboard: Showcase of his courses with option to mark lessons completed/ not completed yet
-* ### Instructor dashboard: Showcase of his courses, with options to edit, add, remove lessons. Also he can unpublish the course, and his revenue 
-* ### Storage: S3. Deployed on an EC2 instance
+* ### Instructor dashboard: showcase of his courses, with options to edit, add, remove lessons. Also he can unpublish the course, and his revenue 
+* ### Storage used: S3 | Deployed on an EC2 instance
 ...and much more
 
