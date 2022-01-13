@@ -1,9 +1,13 @@
-# Coursefry 
+# Coursefry 🏃‍♀️
 
-## A robust course platform built with NextJS and MERN stack
+## A robust course platform built with NextJS and MERN stack 💨
 
-## 🤜 [See it live](http://ec2-3-141-8-18.us-east-2.compute.amazonaws.com/) 🤛
+## ✅ [See it live](http://ec2-3-141-8-18.us-east-2.compute.amazonaws.com/) ✅
 
+<img src="./coursefry ss/Screenshot_2.png">
+<img src="./coursefry ss/Screenshot_1.png">
+
+<img src="./coursefry ss/20220113_211010.gif">
 
 #### *Features* 
 
