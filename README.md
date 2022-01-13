@@ -9,7 +9,7 @@
 
 <img src="./coursefry ss/20220113_211010.gif">
 
-#### *Features* 
+## *Features* 
 
 * ### SEO friendly
 * ### Authentication using cookies (wouldn't store tokens in local storage)
