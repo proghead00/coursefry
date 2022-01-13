@@ -8,9 +8,9 @@ import user from "../../server/models/user";
 import { useRouter } from "next/router";
 
 const Register = () => {
-  const [name, setName] = useState("sus");
-  const [email, setEmail] = useState("sus@gmail.com");
-  const [password, setPassword] = useState("ssss");
+  const [name, setName] = useState("");
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
   const [loading, setLoading] = useState(false);
 
   const {
