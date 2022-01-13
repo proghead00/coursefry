@@ -22,9 +22,10 @@
 * ### Storage used: S3 | Deployed on an EC2 instance
 ...and much more
 
+<!--
 <hr />
 
-<!--## How to run locally:
+## How to run locally:
 
 
  ### Open two terminals. Run client and server:
