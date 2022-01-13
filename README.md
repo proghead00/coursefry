@@ -24,7 +24,7 @@
 
 <hr />
 
-## How to run locally:
+<!--## How to run locally:
 
 
  ### Open two terminals. Run client and server:
@@ -43,4 +43,5 @@
 <br />
 
  Now go to http://localhost:3000/
+-->
 
