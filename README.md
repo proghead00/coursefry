@@ -22,3 +22,25 @@
 * ### Storage used: S3 | Deployed on an EC2 instance
 ...and much more
 
+<hr />
+
+## How to run locally:
+
+
+ ### Open two terminals. Run client and server:
+
+<code> cd client </code>
+
+> ###### Download the node_modules:  <code> npm install </code> 
+<code> npm run dev </code>
+
+<br />
+
+<code> cd server </code>
+> ###### Download the node_modules: <code> npm install </code> 
+<code> npm start </code>
+
+<br />
+
+ Now go to http://localhost:3000/
+
