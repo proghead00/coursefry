@@ -2,8 +2,11 @@
 
 ## A robust course platform built with NextJS and MERN stack 💨
 
+<img src="./coursefry ss/main1.png">
+
 ## ✅ [See it live](http://ec2-3-141-8-18.us-east-2.compute.amazonaws.com/) ✅ (only for desktop view)
 
+<br />
 <img src="./coursefry ss/Screenshot_2.png">
 <img src="./coursefry ss/Screenshot_1.png">
 
