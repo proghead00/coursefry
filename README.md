@@ -11,7 +11,7 @@
 
 ## *Features* 
 
-* ### SEO friendly
+
 * ### Authentication using cookies (wouldn't store tokens in local storage)
 * ### Password reset using AWS SES
 * ### Stripe for automated payment system
