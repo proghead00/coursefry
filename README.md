@@ -4,7 +4,7 @@
 
 <img src="./coursefry ss/main1.png">
 
-## ✅ [See it live](http://18.117.83.227/) ✅ (only for desktop view)
+## ✅ [See it live](http://43.205.210.119/) ✅ (only for desktop view)
 
 <br />
 <img src="./coursefry ss/Screenshot_2.png">
